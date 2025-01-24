@@ -26,3 +26,7 @@ From Moesh:
 * MrScaryMuffin named the enchanted weapons
 * Playtesters came from Dinner Party Games, testfor[dev], Realms Creator Program, and other places
 * Software: Minecraft: Java Edition, Sublime Text 3, GitKraken
+
+From ORen:
+* Updated scripts for Minecraft 1.24.1
+* Updated map with additional aesthetics
