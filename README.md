@@ -1,6 +1,8 @@
 # Revolution-Reloaded
 _Created by Cosmologix and Rixiot_
+
 _Scripts by Moesh_
+
 Revolution is a two-lane attack/defense map. Defend your team's castle while attacking the enemy's castle. Break into the bedrock room and flip the lever to drain the enemy team's health bar!
 
 This classic PVP map has been updated for Minecraft: Java Edition v1.21.4! 
