@@ -1,7 +1,7 @@
 # Revolution-Reloaded
 _Created by Cosmologix and Rixiot_
 
-_Scripts by Moesh_
+_Scripts by Moesh and ORen_
 
 Revolution is a two-lane attack/defense map. Defend your team's castle while attacking the enemy's castle. Break into the bedrock room and flip the lever to drain the enemy team's health bar!
 
